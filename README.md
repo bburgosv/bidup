@@ -1,7 +1,7 @@
 [English]
 
 # Bidup
-BIDUP stands for Business Integrated Download and Unattended Printing. It is a Windows service that downloads ESC/POS binary files and sends them directly to a thermal printer.
+BIDUP stands for Business Integrated Download and Unattended Printing. It is a Windows service that manage downloaded ESC/POS binary files and sends them directly to a thermal printer.
 
 It is ideal for retail and warehouse applications, enhancing the capabilities of native printing workflows while avoiding formatting issues and ensuring consistent print output.
 
@@ -15,7 +15,7 @@ Use this software at your own risk.
 # Bidup
 BIDUP significa Business Integrated Download and Unattended Printing (Descarga Integrada para Empresas e Impresión Desatendida).
 
-Es un servicio de Windows que descarga archivos binarios ESC/POS y los envía directamente a una impresora térmica.
+Es un servicio de Windows que gestiona los archivos descargados que sean binarios ESC/POS y los envía directamente a una impresora térmica.
 
 Es ideal para aplicaciones de comercio minorista y gestión de almacenes, ya que amplía las capacidades de los sistemas de impresión nativos, evita problemas de formato y garantiza resultados de impresión consistentes.
 
